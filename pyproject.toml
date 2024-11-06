@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "caslake"
+version = "0.1.0"
+description = ""
+authors = ["Vladislav Wohlrath <vladislav@wohlrath.cz>"]
+license = "GPL-3.0-only"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+sqlmodel = "^0.0.22"
+SQLAlchemy = "^2.0.36"
+fsspec = "^2024.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
