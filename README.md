@@ -84,4 +84,6 @@ Acknowledgement
 ---------------
 
 I don't think any of these ideas are new, though I could not anyone talking about it.
-The biggest inspiration is coming from [nix](nixos.org).
+The biggest inspiration is coming from [nix](nixos.org). I recommend reading [Nix – taming Unix with functional programming](https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix)
+and the linked article [Imposing a Memory Management Discipline on Software Deployment](https://edolstra.github.io/pubs/immdsd-icse2004-final.pdf).
+How about imposing a memory management discipline on user data?
